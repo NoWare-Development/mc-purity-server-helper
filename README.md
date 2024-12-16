@@ -3,8 +3,7 @@ Automatically installs Zulu JDK, server file, and runs server
 
 Script can be downloaded using this command:
 ```sh
-wget https://raw.githubusercontent.com/NoWare-Development/mc-purity-server-helper/refs/heads/master/server.sh
-chmod +x server.sh
+wget https://raw.githubusercontent.com/NoWare-Development/mc-purity-server-helper/refs/heads/master/server.sh && chmod +x server.sh
 ```
 
 ## Change preferences
