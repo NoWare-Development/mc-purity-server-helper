@@ -1,6 +1,12 @@
 # Minecraft Purity Server Helper
 Automatically installs Zulu JDK, server file, and runs server
 
+Script can be downloaded using this command:
+```sh
+wget https://raw.githubusercontent.com/NoWare-Development/mc-purity-server-helper/refs/heads/master/server.sh
+chmod +x server.sh
+```
+
 ## Change preferences
 To change memory preferences edit `MEMORY_MIB_MAX` and `MEMORY_MIB_MIN`
 variables.
